@@ -17,7 +17,7 @@
 
 - Run the application 
 
-  `ng serve`# angular-tutorial
+  `ng serve`
+  
 # angular-tutorial
-# angular-tutorial
-# angular-tutorial
+# Follow-along tutorial @ https://angular.dev/tutorials/first-app/01-hello-world
